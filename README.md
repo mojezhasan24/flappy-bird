@@ -1,2 +1,2 @@
 # flappy-bird
-game in html
+game in html,
